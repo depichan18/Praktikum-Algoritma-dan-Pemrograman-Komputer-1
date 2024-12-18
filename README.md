@@ -15,13 +15,5 @@ Repositori ini berisi berbagai proyek dan latihan selama mengikuti praktikum alp
 
 ## Memulai
 
-Setiap folder proyek berisi file `README.md` dengan instruksi spesifik tentang cara menjalankan proyek tersebut. Untuk memulai dengan proyek tertentu, navigasikan ke foldernya dan ikuti instruksi yang diberikan.
-
-## Manajemen Dependensi
-
-Tampilan `JAVA PROJECTS` memungkinkan Anda untuk mengelola dependensi Anda. Detail lebih lanjut dapat ditemukan [di sini](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-
-## Dokumentasi Tambahan
-
-Untuk dokumentasi lebih lanjut, Anda dapat melihat file PDF berikut:
-[Laprak1](Laprak1.pdf)
+Berikut adalah laporan-laporan selama mengikuti praktikum algoritma dan pemrograman komputer 1:
+- **[Laporan Praktikum 1](Laprak1.pdf)**
